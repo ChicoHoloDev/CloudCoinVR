@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 9cc59f5172399ff43abb5448e102b2a7
+timeCreated: 1512160936
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base
+    100002: base_iron_standers
+    100004: //RootNode
+    100006: Cap_1
+    100008: Cap_1_2
+    100010: Cap_1_3
+    100012: Cap_2
+    100014: Cap_2_2
+    100016: Cap_2_3
+    100018: Cube_12
+    100020: Cube_12_2
+    100022: Cube_12_3
+    100024: Cube_13
+    100026: Cube_13_2
+    100028: Cube_13_3
+    100030: Cube_14
+    100032: Cube_14_2
+    100034: Cube_14_3
+    100036: ladder
+    100038: ladder_steps
+    100040: net
+    100042: nets
+    100044: Null
+    100046: Null_6
+    100048: Null_7
+    100050: Null_7_2
+    100052: Null_8
+    100054: piller
+    100056: Sweep
+    100058: Sweep_2
+    100060: Sweep_3
+    100062: Symmetry_1
+    100064: the_billboard
+    100066: the_iron_plates
+    100068: the_lights
+    100070: the_under_billboard_iron_plates
+    400000: base
+    400002: base_iron_standers
+    400004: //RootNode
+    400006: Cap_1
+    400008: Cap_1_2
+    400010: Cap_1_3
+    400012: Cap_2
+    400014: Cap_2_2
+    400016: Cap_2_3
+    400018: Cube_12
+    400020: Cube_12_2
+    400022: Cube_12_3
+    400024: Cube_13
+    400026: Cube_13_2
+    400028: Cube_13_3
+    400030: Cube_14
+    400032: Cube_14_2
+    400034: Cube_14_3
+    400036: ladder
+    400038: ladder_steps
+    400040: net
+    400042: nets
+    400044: Null
+    400046: Null_6
+    400048: Null_7
+    400050: Null_7_2
+    400052: Null_8
+    400054: piller
+    400056: Sweep
+    400058: Sweep_2
+    400060: Sweep_3
+    400062: Symmetry_1
+    400064: the_billboard
+    400066: the_iron_plates
+    400068: the_lights
+    400070: the_under_billboard_iron_plates
+    2300000: base
+    2300002: base_iron_standers
+    2300004: Cap_1
+    2300006: Cap_1_2
+    2300008: Cap_1_3
+    2300010: Cap_2
+    2300012: Cap_2_2
+    2300014: Cap_2_3
+    2300016: Cube_12
+    2300018: Cube_12_2
+    2300020: Cube_12_3
+    2300022: Cube_13
+    2300024: Cube_13_2
+    2300026: Cube_13_3
+    2300028: Cube_14
+    2300030: Cube_14_2
+    2300032: Cube_14_3
+    2300034: ladder
+    2300036: ladder_steps
+    2300038: net
+    2300040: nets
+    2300042: Null
+    2300044: piller
+    2300046: Sweep
+    2300048: Sweep_2
+    2300050: Sweep_3
+    2300052: the_billboard
+    2300054: the_iron_plates
+    2300056: the_under_billboard_iron_plates
+    3300000: base
+    3300002: base_iron_standers
+    3300004: Cap_1
+    3300006: Cap_1_2
+    3300008: Cap_1_3
+    3300010: Cap_2
+    3300012: Cap_2_2
+    3300014: Cap_2_3
+    3300016: Cube_12
+    3300018: Cube_12_2
+    3300020: Cube_12_3
+    3300022: Cube_13
+    3300024: Cube_13_2
+    3300026: Cube_13_3
+    3300028: Cube_14
+    3300030: Cube_14_2
+    3300032: Cube_14_3
+    3300034: ladder
+    3300036: ladder_steps
+    3300038: net
+    3300040: nets
+    3300042: Null
+    3300044: piller
+    3300046: Sweep
+    3300048: Sweep_2
+    3300050: Sweep_3
+    3300052: the_billboard
+    3300054: the_iron_plates
+    3300056: the_under_billboard_iron_plates
+    4300000: nets
+    4300002: Cube_14
+    4300004: Cube_13
+    4300006: Cube_12
+    4300008: Sweep
+    4300010: Cap_1
+    4300012: Cap_2
+    4300014: Cube_14_2
+    4300016: Cube_13_2
+    4300018: Cube_12_2
+    4300020: Sweep_2
+    4300022: Cap_1_2
+    4300024: Cap_2_2
+    4300026: Cube_14_3
+    4300028: Cube_13_3
+    4300030: Cube_12_3
+    4300032: Sweep_3
+    4300034: Cap_1_3
+    4300036: Cap_2_3
+    4300038: Null
+    4300040: the_under_billboard_iron_plates
+    4300042: net
+    4300044: ladder
+    4300046: ladder_steps
+    4300048: base_iron_standers
+    4300050: base
+    4300052: piller
+    4300054: the_iron_plates
+    4300056: the_billboard
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9b49b87f63ed9ad48a0494d6d6b2389d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

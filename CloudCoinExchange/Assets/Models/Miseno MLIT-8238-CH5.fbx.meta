@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 8dbeefd269462244cb3124402459e65a
+timeCreated: 1511303594
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bar_01
+    100002: Bar_01 1
+    100004: Bar_01 2
+    100006: Bar_01 3
+    100008: Bar_01 4
+    100010: Big_bar_01
+    100012: Big_bar_01 1
+    100014: Big_bar_01 2
+    100016: Big_bar_01 3
+    100018: Big_bar_01 4
+    100020: Bolt_01
+    100022: Bolt_01 1
+    100024: Bolt_01 2
+    100026: Bolt_01 3
+    100028: Bolt_01 4
+    100030: Bolt_02
+    100032: Bolt_02 1
+    100034: Bolt_02 2
+    100036: Bolt_02 3
+    100038: Bolt_02 4
+    100040: Bulb_01
+    100042: Bulb_01 1
+    100044: Bulb_01 2
+    100046: Bulb_01 3
+    100048: Bulb_01 4
+    100050: Hole_Hook
+    100052: Leg_01
+    100054: Leg_02
+    100056: Leg_03
+    100058: Leg_04
+    100060: Leg_05
+    100062: Light_hold_01
+    100064: Light_hold_01 1
+    100066: Light_hold_01 2
+    100068: Light_hold_01 3
+    100070: Light_hold_01 4
+    100072: Light_Lamp_02
+    100074: Light_Lamp_03
+    100076: Light_Lamp_04
+    100078: Light_Lamp_05
+    100080: Light_Lamp_06
+    100082: Light_Lamp_07
+    100084: //RootNode
+    100086: Pole_01
+    400000: Bar_01
+    400002: Bar_01 1
+    400004: Bar_01 2
+    400006: Bar_01 3
+    400008: Bar_01 4
+    400010: Big_bar_01
+    400012: Big_bar_01 1
+    400014: Big_bar_01 2
+    400016: Big_bar_01 3
+    400018: Big_bar_01 4
+    400020: Bolt_01
+    400022: Bolt_01 1
+    400024: Bolt_01 2
+    400026: Bolt_01 3
+    400028: Bolt_01 4
+    400030: Bolt_02
+    400032: Bolt_02 1
+    400034: Bolt_02 2
+    400036: Bolt_02 3
+    400038: Bolt_02 4
+    400040: Bulb_01
+    400042: Bulb_01 1
+    400044: Bulb_01 2
+    400046: Bulb_01 3
+    400048: Bulb_01 4
+    400050: Hole_Hook
+    400052: Leg_01
+    400054: Leg_02
+    400056: Leg_03
+    400058: Leg_04
+    400060: Leg_05
+    400062: Light_hold_01
+    400064: Light_hold_01 1
+    400066: Light_hold_01 2
+    400068: Light_hold_01 3
+    400070: Light_hold_01 4
+    400072: Light_Lamp_02
+    400074: Light_Lamp_03
+    400076: Light_Lamp_04
+    400078: Light_Lamp_05
+    400080: Light_Lamp_06
+    400082: Light_Lamp_07
+    400084: //RootNode
+    400086: Pole_01
+    2300000: Bar_01
+    2300002: Bar_01 1
+    2300004: Bar_01 2
+    2300006: Bar_01 3
+    2300008: Bar_01 4
+    2300010: Big_bar_01
+    2300012: Big_bar_01 1
+    2300014: Big_bar_01 2
+    2300016: Big_bar_01 3
+    2300018: Big_bar_01 4
+    2300020: Bolt_01
+    2300022: Bolt_01 1
+    2300024: Bolt_01 2
+    2300026: Bolt_01 3
+    2300028: Bolt_01 4
+    2300030: Bolt_02
+    2300032: Bolt_02 1
+    2300034: Bolt_02 2
+    2300036: Bolt_02 3
+    2300038: Bolt_02 4
+    2300040: Bulb_01
+    2300042: Bulb_01 1
+    2300044: Bulb_01 2
+    2300046: Bulb_01 3
+    2300048: Bulb_01 4
+    2300050: Hole_Hook
+    2300052: Light_hold_01
+    2300054: Light_hold_01 1
+    2300056: Light_hold_01 2
+    2300058: Light_hold_01 3
+    2300060: Light_hold_01 4
+    2300062: Light_Lamp_02
+    2300064: Light_Lamp_03
+    2300066: Light_Lamp_04
+    2300068: Light_Lamp_05
+    2300070: Light_Lamp_06
+    2300072: Light_Lamp_07
+    2300074: Pole_01
+    3300000: Bar_01
+    3300002: Bar_01 1
+    3300004: Bar_01 2
+    3300006: Bar_01 3
+    3300008: Bar_01 4
+    3300010: Big_bar_01
+    3300012: Big_bar_01 1
+    3300014: Big_bar_01 2
+    3300016: Big_bar_01 3
+    3300018: Big_bar_01 4
+    3300020: Bolt_01
+    3300022: Bolt_01 1
+    3300024: Bolt_01 2
+    3300026: Bolt_01 3
+    3300028: Bolt_01 4
+    3300030: Bolt_02
+    3300032: Bolt_02 1
+    3300034: Bolt_02 2
+    3300036: Bolt_02 3
+    3300038: Bolt_02 4
+    3300040: Bulb_01
+    3300042: Bulb_01 1
+    3300044: Bulb_01 2
+    3300046: Bulb_01 3
+    3300048: Bulb_01 4
+    3300050: Hole_Hook
+    3300052: Light_hold_01
+    3300054: Light_hold_01 1
+    3300056: Light_hold_01 2
+    3300058: Light_hold_01 3
+    3300060: Light_hold_01 4
+    3300062: Light_Lamp_02
+    3300064: Light_Lamp_03
+    3300066: Light_Lamp_04
+    3300068: Light_Lamp_05
+    3300070: Light_Lamp_06
+    3300072: Light_Lamp_07
+    3300074: Pole_01
+    4300000: Hole_Hook
+    4300002: Light_Lamp_02
+    4300004: Pole_01
+    4300006: Bulb_01
+    4300008: Bolt_01
+    4300010: Light_hold_01
+    4300012: Big_bar_01
+    4300014: Bar_01
+    4300016: Bolt_02
+    4300018: Bulb_01
+    4300020: Bolt_01
+    4300022: Light_hold_01
+    4300024: Big_bar_01
+    4300026: Bar_01
+    4300028: Bolt_02
+    4300030: Bulb_01
+    4300032: Bolt_01
+    4300034: Light_hold_01
+    4300036: Big_bar_01
+    4300038: Bar_01
+    4300040: Bolt_02
+    4300042: Bulb_01
+    4300044: Bolt_01
+    4300046: Light_hold_01
+    4300048: Big_bar_01
+    4300050: Bar_01
+    4300052: Bolt_02
+    4300054: Light_Lamp_03
+    4300056: Light_Lamp_04
+    4300058: Light_Lamp_05
+    4300060: Light_Lamp_06
+    4300062: Light_Lamp_07
+    4300064: Bulb_01
+    4300066: Bolt_01
+    4300068: Light_hold_01
+    4300070: Big_bar_01
+    4300072: Bar_01
+    4300074: Bolt_02
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 95e0a75836faeee4188185d6d5cb3e24, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

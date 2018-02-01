@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: bf64fba186b30724dbfe62203f6bd2c2
+timeCreated: 1515203275
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back_Room_Side_Walk_Ramp
+    100002: Big_Stage_01
+    100004: Front_Ground_Lobby_01
+    100006: Front_Patio_Door_bottom_01
+    100008: //RootNode
+    100010: polySurface12
+    100012: polySurface4
+    100014: polySurface9
+    100016: pPlane15
+    100018: pPlane24
+    100020: Small_Stage_01
+    400000: Back_Room_Side_Walk_Ramp
+    400002: Big_Stage_01
+    400004: Front_Ground_Lobby_01
+    400006: Front_Patio_Door_bottom_01
+    400008: //RootNode
+    400010: polySurface12
+    400012: polySurface4
+    400014: polySurface9
+    400016: pPlane15
+    400018: pPlane24
+    400020: Small_Stage_01
+    2300000: Back_Room_Side_Walk_Ramp
+    2300002: Big_Stage_01
+    2300004: Front_Ground_Lobby_01
+    2300006: Front_Patio_Door_bottom_01
+    2300008: polySurface12
+    2300010: polySurface4
+    2300012: polySurface9
+    2300014: pPlane15
+    2300016: pPlane24
+    2300018: Small_Stage_01
+    3300000: Back_Room_Side_Walk_Ramp
+    3300002: Big_Stage_01
+    3300004: Front_Ground_Lobby_01
+    3300006: Front_Patio_Door_bottom_01
+    3300008: polySurface12
+    3300010: polySurface4
+    3300012: polySurface9
+    3300014: pPlane15
+    3300016: pPlane24
+    3300018: Small_Stage_01
+    4300000: Big_Stage_01
+    4300002: Back_Room_Side_Walk_Ramp
+    4300004: Small_Stage_01
+    4300006: Front_Ground_Lobby_01
+    4300008: pPlane15
+    4300010: Front_Patio_Door_bottom_01
+    4300012: pPlane24
+    4300014: polySurface4
+    4300016: polySurface9
+    4300018: polySurface12
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_Room_Side_Walk_Ramp1
+    second: {fileID: 2100000, guid: b0e8f0e79381f254c8276a0beeaa40ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Big_Stage
+    second: {fileID: 2100000, guid: 72aa64ae2a2f97443a3171c7120735c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Patio_Door_bottom_02
+    second: {fileID: 2100000, guid: 388be42f1c14b7b45930ef5b936e743c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobb_Flooring_01
+    second: {fileID: 2100000, guid: d3e488a7719cbe745b5e7a44cdde4861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_BlackTop
+    second: {fileID: 2100000, guid: aae6622cb7fee784193b01c05cd621f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Floor1
+    second: {fileID: 2100000, guid: 63aac7968cc51d5429c3b0320bf52eff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Ground_Side_Entrance
+    second: {fileID: 2100000, guid: 7837191d5e0671148a9bc9f6c15079c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Patio_DR
+    second: {fileID: 2100000, guid: 4bad67e6954ac0e4ab9008de5c3131dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Patio_b
+    second: {fileID: 2100000, guid: e0d6871796ab370498e8456aea6fb82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Patio_y
+    second: {fileID: 2100000, guid: 86caec575648efa48a12bdbab991e992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SideWalk
+    second: {fileID: 2100000, guid: 853781099304c8b408cc7f54b4c221a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Stucco_Tan
+    second: {fileID: 2100000, guid: 26f018bab2ddfdb4bae71f560e3345f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_Stage
+    second: {fileID: 2100000, guid: 920e4330e6a38e9488ba3d3e576faac5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

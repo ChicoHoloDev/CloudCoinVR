@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 58ab03d94167fce4195a7e301b5154dd
+timeCreated: 1513889486
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Hand
+    100002: L_jt_ForeArm
+    100004: L_jt_Index_Base
+    100006: L_jt_Index_Mid
+    100008: L_jt_Index_Tip
+    100010: L_jt_Index_Upp
+    100012: L_jt_Middle_Base
+    100014: L_jt_Middle_Mid
+    100016: L_jt_Middle_Tip
+    100018: L_jt_Middle_Upp
+    100020: L_jt_Pinky_Base
+    100022: L_jt_Pinky_Mid
+    100024: L_jt_Pinky_Tip
+    100026: L_jt_Pinky_Upp
+    100028: L_jt_Ring_Base
+    100030: L_jt_Ring_Mid
+    100032: L_jt_Ring_Tip
+    100034: L_jt_Ring_Upp
+    100036: L_jt_Thumb_Base
+    100038: L_jt_Thumb_Mid
+    100040: L_jt_Thumb_Tip
+    100042: L_jt_Wrist
+    100044: //RootNode
+    100046: LHand
+    100048: transform1
+    400000: Hand
+    400002: L_jt_ForeArm
+    400004: L_jt_Index_Base
+    400006: L_jt_Index_Mid
+    400008: L_jt_Index_Tip
+    400010: L_jt_Index_Upp
+    400012: L_jt_Middle_Base
+    400014: L_jt_Middle_Mid
+    400016: L_jt_Middle_Tip
+    400018: L_jt_Middle_Upp
+    400020: L_jt_Pinky_Base
+    400022: L_jt_Pinky_Mid
+    400024: L_jt_Pinky_Tip
+    400026: L_jt_Pinky_Upp
+    400028: L_jt_Ring_Base
+    400030: L_jt_Ring_Mid
+    400032: L_jt_Ring_Tip
+    400034: L_jt_Ring_Upp
+    400036: L_jt_Thumb_Base
+    400038: L_jt_Thumb_Mid
+    400040: L_jt_Thumb_Tip
+    400042: L_jt_Wrist
+    400044: //RootNode
+    400046: LHand
+    400048: transform1
+    4300000: LHand
+    9500000: //RootNode
+    13700000: LHand
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_LHand
+    second: {fileID: 2100000, guid: 8610dfc6df4cd1247b305c19003b67e2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: ab44b9350b58c7549b4272d0702f63e8
+timeCreated: 1515172691
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Door_Frame_02_MeshPart0
+    100002: Door_Frame_02_MeshPart1
+    100004: //RootNode
+    400000: Door_Frame_02_MeshPart0
+    400002: Door_Frame_02_MeshPart1
+    400004: //RootNode
+    2300000: Door_Frame_02_MeshPart0
+    2300002: Door_Frame_02_MeshPart1
+    3300000: Door_Frame_02_MeshPart0
+    3300002: Door_Frame_02_MeshPart1
+    4300000: Door_Frame_02_MeshPart0
+    4300002: Door_Frame_02_MeshPart1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_Door
+    second: {fileID: 2100000, guid: 4d74059b14a14434792502b3b39e9f3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_Door_Frame
+    second: {fileID: 2100000, guid: e26bb8587eddf59469dfa5c5c499af23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_Room_Door_Frame
+    second: {fileID: 2100000, guid: dcdc00e65032e5d4e9051f3fd930128d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_Room_Side_Walk_Ramp1
+    second: {fileID: 2100000, guid: b0e8f0e79381f254c8276a0beeaa40ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Big_Stage
+    second: {fileID: 2100000, guid: 72aa64ae2a2f97443a3171c7120735c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Big_Window
+    second: {fileID: 2100000, guid: 6f2dc8bb1a7ea7d44abcd1f5f3539501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Big_Window1
+    second: {fileID: 2100000, guid: c906902e502b4f34397b49f34a423a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Big_wall_Electric1
+    second: {fileID: 2100000, guid: bb5dd977cfab8ae418084fce16be92b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_010
+    second: {fileID: 2100000, guid: 9b971fa3415ed114993e1f4f48bc4e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_011
+    second: {fileID: 2100000, guid: 23c0bcdacdc72da4f8214aa844c10fa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_06
+    second: {fileID: 2100000, guid: 3c058630417772e4e92163f6c8e07c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_07
+    second: {fileID: 2100000, guid: f95f3859370d63549b811211595d3e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_08
+    second: {fileID: 2100000, guid: 71fce82f16e1ec94d99558ff4c24d764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_09
+    second: {fileID: 2100000, guid: 294b112274580f2499cb5eb46c951774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Glasses_01
+    second: {fileID: 2100000, guid: 5317857d3190cfa49ab835792fc6db23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Knob
+    second: {fileID: 2100000, guid: 6d65625b24b294f4697a547bb7a83bfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Knob_01
+    second: {fileID: 2100000, guid: dd2cbfa5f4f71554e812e9f9f7362693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Knob_02
+    second: {fileID: 2100000, guid: d424f3e75ce71a74a953f3664e3f8a38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Knob_03
+    second: {fileID: 2100000, guid: 82850f3cd8f43fb47bce85c763d1fd27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Knob_04
+    second: {fileID: 2100000, guid: c557b9c47aaf30341b057c836242a016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_knob
+    second: {fileID: 2100000, guid: 6d65625b24b294f4697a547bb7a83bfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Entrance_Columns
+    second: {fileID: 2100000, guid: 2fe0024f29385544eb8d247267ff1699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Entrance_Door_Frame
+    second: {fileID: 2100000, guid: b4fb470caa6fca646ad6498b6fa9734d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Lobby_Wall
+    second: {fileID: 2100000, guid: ad75fa4807bbf2747b1718ac4f3aa264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Patio_Door_bottom_02
+    second: {fileID: 2100000, guid: 388be42f1c14b7b45930ef5b936e743c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Window_Frames
+    second: {fileID: 2100000, guid: cea5f6e21e0e90840821a5089ef66471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Windows_01
+    second: {fileID: 2100000, guid: 9f81398977a852e4ab07be5ca1538575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Side_Small_Room
+    second: {fileID: 2100000, guid: baa9c19afe897d848bf2adbb5540eea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobb_Flooring_01
+    second: {fileID: 2100000, guid: d3e488a7719cbe745b5e7a44cdde4861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobby_Columns
+    second: {fileID: 2100000, guid: 721c10c1e9a9ba24ba39136a3063e16a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobby_Door_Frames
+    second: {fileID: 2100000, guid: 028c514af019072469a02c12f8b57062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Back_Room_Ceiling
+    second: {fileID: 2100000, guid: 6e5155126e0f203448cb674d53a9d9eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Black
+    second: {fileID: 2100000, guid: 1ee0d26a6662c034bb194889b050c234, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_BlackTop
+    second: {fileID: 2100000, guid: aae6622cb7fee784193b01c05cd621f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Box_Office
+    second: {fileID: 2100000, guid: f0ccc5aa6a310f745a4b121c49eb6b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Cards
+    second: {fileID: 2100000, guid: 7a1bb59d3913e1846979507fb10948ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Floor1
+    second: {fileID: 2100000, guid: 63aac7968cc51d5429c3b0320bf52eff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Gold_Plate
+    second: {fileID: 2100000, guid: 68a4a5265cc6ea140bc843b59fe79107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Ground_Side_Entrance
+    second: {fileID: 2100000, guid: 7837191d5e0671148a9bc9f6c15079c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Left_Patio_Corner
+    second: {fileID: 2100000, guid: 17c5f1df4a3c85f47bafb3e8bee0cf7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Light_Brown
+    second: {fileID: 2100000, guid: eb50a83499abaae42ae42b50237dd3f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Patio_DR
+    second: {fileID: 2100000, guid: 4bad67e6954ac0e4ab9008de5c3131dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Patio_b
+    second: {fileID: 2100000, guid: e0d6871796ab370498e8456aea6fb82a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Patio_y
+    second: {fileID: 2100000, guid: 86caec575648efa48a12bdbab991e992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SideWalk
+    second: {fileID: 2100000, guid: 853781099304c8b408cc7f54b4c221a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Stucco_Black
+    second: {fileID: 2100000, guid: 8d5846ef64e377a42a16067c17aa3eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Stucco_Tan
+    second: {fileID: 2100000, guid: 26f018bab2ddfdb4bae71f560e3345f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Middle_Light
+    second: {fileID: 2100000, guid: e119f82856ed2324281f4856863503dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Side_Small_Room
+    second: {fileID: 2100000, guid: 55d70c6371710804992bf8a11bb1b0d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Side_Small_room_Center
+    second: {fileID: 2100000, guid: 591d8bf931995a341ba350b803233f35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Side_Theater_Wall_Column
+    second: {fileID: 2100000, guid: 220d61cb40b356a458babe12a8372309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Small_room_Center_Wall_03
+    second: {fileID: 2100000, guid: f05ce0af6607de843836d76030606b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sedan_blinn1
+    second: {fileID: 2100000, guid: cadedab8e8f22ed47a998c32cc92d4cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_Front_Lobby_Door_Frame
+    second: {fileID: 2100000, guid: 39cc0333e66bd4d4dbcd00549928f7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_Stage
+    second: {fileID: 2100000, guid: 920e4330e6a38e9488ba3d3e576faac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_Stage_Room
+    second: {fileID: 2100000, guid: d07ea89184eecac4b80b62f1fa216f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage_Door_Frame
+    second: {fileID: 2100000, guid: 1585f3d99d8ebc34088d922476d9dc7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Back_Middle_Wall
+    second: {fileID: 2100000, guid: bf513ba2235d7c240b7a33a05173dc44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Back_Room
+    second: {fileID: 2100000, guid: 74a6ce8065659e8499db7901f1d596e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Back_under_Pass
+    second: {fileID: 2100000, guid: d0ffa908251767142a5ad251d6a510b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Center_Ceiling
+    second: {fileID: 2100000, guid: 34e2c56c036f99a41b28e088815eee7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Center_In_dent_wall
+    second: {fileID: 2100000, guid: 3e071f83e0472c44696a86b05990755a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Center_Wall_Room
+    second: {fileID: 2100000, guid: 3426f0e3cc2592f4d8ac8d72ad43166b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Center_top_bottom_Ceiling
+    second: {fileID: 2100000, guid: 0a0be5f118fc004429715ec9e658e8f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Left_Side_Center
+    second: {fileID: 2100000, guid: 0c7ff7bb89b3ec240a25c65aa747abb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Left_Side_bottom_Wall
+    second: {fileID: 2100000, guid: 9b9bbd81cead5fe40a7c561648164103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Right_Back_Room
+    second: {fileID: 2100000, guid: c0179a878778d5e4ba0564fc8b9b82a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Right_Side_Small_wall
+    second: {fileID: 2100000, guid: a2e14a1af0185194a8ac16e187b3d921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Right_Side_ceiling_bottom
+    second: {fileID: 2100000, guid: 7b29b2f72c9366149bb1505a0cf0b61a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Small_Door_Frame
+    second: {fileID: 2100000, guid: 70a8a1bcec25e99449d7f450a05a4053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Theater_Room_Small_center_wall
+    second: {fileID: 2100000, guid: 3093d555d4c0d3b41ba98f2553405d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 95e0a75836faeee4188185d6d5cb3e24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 423bf26964044e8498623a2ccae8ca31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 8466cffcaab404a45b70c7b5649f5481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: 5c3866017315ab44d9b739112805183a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: b035a6cd722a73c44af5c9b6aca74ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 8b9dcf6bee1ebb5489b9337428496beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: e304cb2012ab52348b6143b56f9f561e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: typeBlinn
+    second: {fileID: 2100000, guid: 73f62c9608c7cf647aebaee27ff2bc5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: typeBlinn1
+    second: {fileID: 2100000, guid: 43784eadb3a991c46bf0d5d981c80e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: typeBlinn3
+    second: {fileID: 2100000, guid: 31c691f06f3559941b3ba5775c0d761e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

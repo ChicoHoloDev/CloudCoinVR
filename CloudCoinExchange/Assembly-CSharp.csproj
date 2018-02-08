@@ -580,22 +580,22 @@
  <HintPath>G:/Unity 2017.2/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityFbxPrefab">
- <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/FbxExporters/UnityFbxPrefab.dll</HintPath>
+ <HintPath>G:/Unity Projects/CloudCoinVR/CloudCoinExchange/Assets/FbxExporters/UnityFbxPrefab.dll</HintPath>
  </Reference>
  <Reference Include="UnityFbxExporterEditor">
- <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/FbxExporters/Editor/UnityFbxExporterEditor.dll</HintPath>
+ <HintPath>G:/Unity Projects/CloudCoinVR/CloudCoinExchange/Assets/FbxExporters/Editor/UnityFbxExporterEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityFbxSdk">
- <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/FbxExporters/Editor/FbxSdk/Plugins/UnityFbxSdk.dll</HintPath>
+ <HintPath>G:/Unity Projects/CloudCoinVR/CloudCoinExchange/Assets/FbxExporters/Editor/FbxSdk/Plugins/UnityFbxSdk.dll</HintPath>
  </Reference>
  <Reference Include="CloudCoinCoreFramework">
- <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/Plugins/CloudCoinCore/CloudCoinCoreFramework.dll</HintPath>
+ <HintPath>G:/Unity Projects/CloudCoinVR/CloudCoinExchange/Assets/Plugins/CloudCoinCore/CloudCoinCoreFramework.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/Plugins/CloudCoinCore/Newtonsoft.Json.dll</HintPath>
+ <HintPath>G:/Unity Projects/CloudCoinVR/CloudCoinExchange/Assets/Plugins/CloudCoinCore/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="SkiaSharp">
- <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/Plugins/CloudCoinCore/SkiaSharp.dll</HintPath>
+ <HintPath>G:/Unity Projects/CloudCoinVR/CloudCoinExchange/Assets/Plugins/CloudCoinCore/SkiaSharp.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/MiniGTX950/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>

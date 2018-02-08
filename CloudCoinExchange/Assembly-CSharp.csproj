@@ -449,6 +449,7 @@
      <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
      <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
      <None Include="Assets\OVR\Resources\Underlay Transparent Occluder.shader" />
+     <None Include="Assets\FbxExporters\README.txt" />
      <None Include="Assets\OVR\Resources\Texture2D Blit.shader" />
      <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
@@ -486,6 +487,7 @@
      <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
      <None Include="Assets\SteamVR\readme.txt" />
      <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
+     <None Include="Assets\FbxExporters\LICENSE.txt" />
      <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
      <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
      <None Include="Assets\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
@@ -576,6 +578,15 @@
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>G:/Unity 2017.2/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityFbxPrefab">
+ <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/FbxExporters/UnityFbxPrefab.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityFbxExporterEditor">
+ <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/FbxExporters/Editor/UnityFbxExporterEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityFbxSdk">
+ <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/FbxExporters/Editor/FbxSdk/Plugins/UnityFbxSdk.dll</HintPath>
  </Reference>
  <Reference Include="CloudCoinCoreFramework">
  <HintPath>C:/Users/MiniGTX950/Documents/Unity Projects/CloudCoinExchange/Assets/Plugins/CloudCoinCore/CloudCoinCoreFramework.dll</HintPath>
